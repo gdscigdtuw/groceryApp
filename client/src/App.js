@@ -14,7 +14,7 @@ function App() {
  
   return (
     <div className="App">
-      <header className="App-header">
+      {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <a
           className="App-link"
@@ -24,15 +24,15 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+      </header> */}
       <div className="menu">
       <ul>
 <li> <Link to="/">Home</Link> </li>
 <li> <Link to="/messages">Messages</Link> </li>
 <li> <Link to="/about">About</Link> </li>
-<li>
+{/* <li>
     <a href="/messages">Messages (with a regular anchor element)</a> 
-  </li>
+  </li> */}
 </ul>
     </div>
     <div className="App-intro">
