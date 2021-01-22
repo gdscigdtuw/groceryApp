@@ -27,7 +27,7 @@ Pull requests are the best way to propose changes to the codebase. We actively w
 **2.** Clone the forked repository.
 
 ```terminal
-git clone https://github.com/<your-github-username>/groceryApp
+git clone https://github.com/dscigdtuw/groceryApp.git 
 ```
 
 **3.** Navigate to the project directory.
