@@ -24,7 +24,7 @@ function CustomChatbot(props) {
     },
     {
       id: 'Asking options to eat',
-      message: 'Hi {previousValue}, Glad to know you !!',
+      message: 'Hi, {previousValue}! Glad to know you !!',
       trigger: 'Done',
     },
     {
